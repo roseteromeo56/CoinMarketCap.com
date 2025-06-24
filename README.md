@@ -1,5 +1,5 @@
 Stock control supervisors 
-Romeo Rosete # CRM App
+Owner Romeo Rosete # CRM App
 ![Screenshot_3-5-2025_115755_coinmarketcap com](https://github.com/user-attachments/assets/0618f761-073e-4b69-bce5-8ab21ea0d736)
 
 
