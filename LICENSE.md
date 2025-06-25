@@ -1,11 +1,11 @@
-                               Romeo Rosete   Apache License
-                           Version 2.0, January 2024
+                                 Apache License
+                           Version 2.0, January 2025
                         http://www.apache.org/licenses/
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
    1. Definitions.
-
+       Romeo Rosete
       "License" shall mean the terms and conditions for use, reproduction,
       and distribution as defined by Sections 1 through 9 of this document.
 
