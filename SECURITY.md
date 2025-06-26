@@ -1,7 +1,7 @@
-Romeo Rosete # Security Policy
+# Security Policy
 
 ## Supported Versions
-
+Romeo Rosete
 Use this section to tell people about which versions of your project are
 currently being supported with security updates.
 

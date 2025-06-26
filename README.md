@@ -1,5 +1,7 @@
-Stock control supervisors ![apple_white-df0a614505190a8b2bc87fd16396160fed4680f62a69d5005cd2ae95562b2d2a](https://github.com/user-attachments/assets/b4fee43d-9d3e-4f3d-ae37-497e40dd23b8)
-Romeo Rosete # CRM App
+Stock control supervisors 
+Owner Romeo Rosete 
+![Screenshot_3-5-2025_115755_coinmarketcap com](https://github.com/user-attachments/assets/0618f761-073e-4b69-bce5-8ab21ea0d736)
+
 
 This project was generated with [App Builder Code Gen](https://www.infragistics.com/products/appbuilder).
 
